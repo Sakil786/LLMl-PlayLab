@@ -9,7 +9,6 @@
 |  meta_llama_2finetuned_text_generation_summarization | [link](https://github.com/Sakil786/-meta_llama_2finetuned_text_generation_summarization "link")  |
 | text_generation_using_Llama|[ link](https://github.com/Sakil786/text_generation_using_Llama-2/tree/main " link") |
 | llm_using_petals|[link](https://github.com/Sakil786/llm_using_petals "link") |
-| llm_using_petals|[link](https://github.com/Sakil786/llm_using_petals "link") |
 | Salesforce-xgen|[link](https://github.com/Sakil786/Salesforce-xgen "link")|
 | text_summarization_using_open_llama_7b|[link](https://github.com/Sakil786/text_summarization_using_open_llama_7b "link")|
 | Text_summarization_using_GPT-J|[link](https://github.com/Sakil786/Text_summarization_using_GPT-J "link")|
